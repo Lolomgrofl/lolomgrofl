@@ -62,9 +62,6 @@ Cya at CSGO Faceit loby or MotoGP race! 👋
               <a href="https://grafana.com" target="_blank" rel="noreferrer"> 
                 <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> 
               </a>
-              <a href="https://wandb.ai/site" target="_blank" rel="noreferrer"> 
-                <img src="https://github.com/wandb/assets/blob/main/wandb-dots-logo.svg" alt="wandb" width="40" height="40"/> 
-              </a>
               <a href="https://www.tensorflow.org/tensorboard" target="_blank" rel="noreferrer"> 
                 <img src="https://www.tensorflow.org/site-assets/images/project-logos/tensorboard-logo-social.png" alt="tensorboard" width="40" height="40"/> 
               </a>
@@ -86,9 +83,6 @@ Cya at CSGO Faceit loby or MotoGP race! 👋
               </a>
               <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-              </a>
-              <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> 
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> 
               </a>
             </p>
           </td>
@@ -116,15 +110,15 @@ Cya at CSGO Faceit loby or MotoGP race! 👋
           </td>
         </tr>
         <tr>
-          <td>Frameworks/Packages</td>
+          <td>Frameworks</td>
           <td>
             <p align="left">
               <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> 
                 <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/fastapi.svg" alt="fastapi" width="40" height="40"/> 
               </a>
-              <a href="https://docs.celeryproject.org/en/stable/index.html#" target="_blank" rel="noreferrer"> 
-                <img src="https://docs.celeryproject.org/en/stable/_static/celery_512.png" alt="celery" width="40" height="40"/>
-              </a> 
+                <a href="https://www.databricks.com/" target="_blank" rel="noreferrer"> 
+                <img src="https://www.vectorlogo.zone/logos/databricks/databricks-ar21.svg" alt="databricks" width="40" height="40"/> 
+              </a>
             </p>
           </td>
         </tr>

@@ -1,4 +1,19 @@
-### Hi there 👋
+# Hi, I'm Luka 🤙 
+
+## About Me
+
+I'm an ex-professional basketball player, gamer, billiard enthusiast, and huge MotoGP fan. 🏀🎮🎱🏍️ 
+
+## Open Source and Making People Happy 🙌 
+
+I'm not just passionate about sports and gaming; I'm also a huge fan of open-source projects! 🚀 I believe in the power of collaboration/teamwork and the ability of open-source software to make people smile and provide them with cool tools to work with. I use open-source projects on a daily basis and I would like to contribute to the community as much as I can. I'll start with the small steps, but hopefully, there will be a lot of them in the future 🙏 
+
+## Let's Connect
+
+If you're as passionate about open-source projects, sports, gaming, or MotoGP, I'd love to connect with you! Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/vuksanovicluka/).
+
+Cya at CSGO Faceit loby or MotoGP race! 👋 
+
 
 ---
 
@@ -129,13 +144,5 @@
 </table>
 
 ---
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-    <a href="https://discord.gg/lolomgrofl" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="lolomgrofl" height="30" width="40" />
-    </a>
-</p>
 
 <p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lolomgrofl&show_icons=true&locale=en&theme=calm" alt="lolomgrofl" /></p>

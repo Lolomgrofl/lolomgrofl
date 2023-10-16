@@ -109,8 +109,8 @@ Cya at CSGO Faceit loby or MotoGP race! 👋
               <a href="https://redis.io" target="_blank" rel="noreferrer"> 
                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> 
               </a>
-              <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> 
-                <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
+              <a href="https://www.snowflake.com/en/" target="_blank" rel="noreferrer"> 
+                <img src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg" alt="sqlite" width="40" height="40"/>
               </a>
             </p>
           </td>
@@ -121,18 +121,6 @@ Cya at CSGO Faceit loby or MotoGP race! 👋
             <p align="left">
               <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> 
                 <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/fastapi.svg" alt="fastapi" width="40" height="40"/> 
-              </a>
-              <a href="https://streamlit.io/" target="_blank" rel="noreferrer"> 
-                <img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" alt="streamlit" width="40" height="40"/> 
-              </a>
-              <a href="https://gradio.app/" target="_blank" rel="noreferrer"> 
-                <img src="https://www.freecodecamp.org/news/content/images/2022/01/gradio-image-2.png" alt="gradio" width="40" height="40"/> 
-              </a>
-              <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> 
-                <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> 
-              </a>
-              <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> 
-                <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/>
               </a>
               <a href="https://docs.celeryproject.org/en/stable/index.html#" target="_blank" rel="noreferrer"> 
                 <img src="https://docs.celeryproject.org/en/stable/_static/celery_512.png" alt="celery" width="40" height="40"/>

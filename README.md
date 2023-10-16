@@ -21,16 +21,20 @@ Cya at CSGO Faceit loby or MotoGP race! 👋
 <table>
     <thead>
         <tr>
-            <th colspan="2">Languages and Tools</th>
+            <th colspan="2">My Tech Stack</th>
         </tr>
     </thead>
     <tbody>
         <tr>
-          <td>Machine Learning</td>
+          <td>ML & MLOps</td>
           <td>
             <p align="left">
               <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> 
-                <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> 
+                <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="50" height="50"/> 
+              </a>
+                </a>
+                <a href="https://www.databricks.com/" target="_blank" rel="noreferrer"> 
+                <img src="https://www.vectorlogo.zone/logos/databricks/databricks-ar21.svg" alt="databricks" width="50" height="50"/> 
               </a>
               <a href="https://huggingface.co/" target="_blank" rel="noreferrer"> 
                 <img src="https://uptime-storage.s3.amazonaws.com/logos/d32f5c39b694f3e64d29fc2c9b988cdd.png" alt="huggingface-tools" width="40" height="40"/> 
@@ -42,23 +46,23 @@ Cya at CSGO Faceit loby or MotoGP race! 👋
           </td>
         </tr>
         <tr>
-          <td>Data Visualisation / Monitoring</td>
+          <td> Monitoring</td>
           <td>
             <p align="left">
-              <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
-                <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
-              </a>
-              <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> 
-                <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> 
-              </a>
-              <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> 
-                <img src="https://camo.githubusercontent.com/50181d33f193cdd1730f6413365521f06b2c4b76048759e89cf7847629fb3541/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f6d6174706c6f746c69622d69636f6e2e737667" alt="matplotlib" width="40" height="40"/> 
-              </a>
               <a href="https://grafana.com" target="_blank" rel="noreferrer"> 
-                <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> 
+                <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="50" height="50"/> 
+              </a>
+                <a href="https://prometheus.io/" target="_blank" rel="noreferrer"> 
+                <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-ar21.svg" alt="prometheus" width="50" height="50"/> 
+              </a>
+                <a href="https://sentry.io" target="_blank" rel="noreferrer"> 
+                <img src="https://www.vectorlogo.zone/logos/sentryio/sentryio-icon.svg" alt="sentry" width="50" height="50"/> 
+              </a>
+                <a href="https://www.datadoghq.com/" target="_blank" rel="noreferrer"> 
+                <img src="https://www.vectorlogo.zone/logos/datadoghq/datadoghq-icon.svg" alt="datadog" width="50" height="50"/> 
               </a>
               <a href="https://www.tensorflow.org/tensorboard" target="_blank" rel="noreferrer"> 
-                <img src="https://www.tensorflow.org/site-assets/images/project-logos/tensorboard-logo-social.png" alt="tensorboard" width="40" height="40"/> 
+                <img src="https://www.tensorflow.org/site-assets/images/project-logos/tensorboard-logo-social.png" alt="tensorboard" width="50" height="50"/> 
               </a>
             </p>
           </td>
@@ -71,13 +75,13 @@ Cya at CSGO Faceit loby or MotoGP race! 👋
                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
               </a>
               <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer"> 
-                <img src="https://about.gitlab.com/images/press/logo/svg/gitlab-icon-rgb.svg" alt="gitlab-ci" width="40" height="40"/> 
+                <img src="https://about.gitlab.com/images/press/logo/svg/gitlab-icon-rgb.svg" alt="gitlab-ci" width="50" height="50"/> 
               </a>
               <a href="https://github.com/features/actions" target="_blank" rel="noreferrer"> 
-                <img src="https://camo.githubusercontent.com/5e86afd16a93f1249f4b8d31783e110da71fd7ded147f2fc957320b39f842f34/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f6769746875622d616374696f6e732e737667" alt="github-actions" width="40" height="40"/> 
+                <img src="https://camo.githubusercontent.com/5e86afd16a93f1249f4b8d31783e110da71fd7ded147f2fc957320b39f842f34/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f6769746875622d616374696f6e732e737667" alt="github-actions" width="50" height="50"/> 
               </a>
               <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="50" height="50"/>
               </a>
             </p>
           </td>
@@ -87,19 +91,16 @@ Cya at CSGO Faceit loby or MotoGP race! 👋
           <td>
             <p align="left">
               <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="50" height="50"/> 
               </a>
               <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-              </a>
-              <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50"/> 
               </a>
               <a href="https://redis.io" target="_blank" rel="noreferrer"> 
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> 
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="50" height="50"/> 
               </a>
               <a href="https://www.snowflake.com/en/" target="_blank" rel="noreferrer"> 
-                <img src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg" alt="sqlite" width="40" height="40"/>
+                <img src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg" alt="sqlite" width="50" height="50"/>
               </a>
             </p>
           </td>
@@ -109,11 +110,9 @@ Cya at CSGO Faceit loby or MotoGP race! 👋
           <td>
             <p align="left">
               <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> 
-                <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/fastapi.svg" alt="fastapi" width="40" height="40"/> 
-              </a>
-                <a href="https://www.databricks.com/" target="_blank" rel="noreferrer"> 
-                <img src="https://www.vectorlogo.zone/logos/databricks/databricks-ar21.svg" alt="databricks" width="40" height="40"/> 
-              </a>
+                <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/fastapi.svg" alt="fastapi" width="50" height="50"/>
+             <a href="https://spark.apache.org/" target="_blank" rel="noreferrer"> 
+                <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg" alt="spark" width="50" height="50"/>
             </p>
           </td>
         </tr>

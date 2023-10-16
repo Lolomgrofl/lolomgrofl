@@ -1,16 +1,141 @@
 ### Hi there 👋
 
-<!--
-**Lolomgrofl/lolomgrofl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+<table>
+    <thead>
+        <tr>
+            <th colspan="2">Languages and Tools</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+          <td>Machine Learning</td>
+          <td>
+            <p align="left">
+              <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> 
+                <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> 
+              </a>
+              <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
+                <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
+              </a>
+              <a href="https://huggingface.co/" target="_blank" rel="noreferrer"> 
+                <img src="https://uptime-storage.s3.amazonaws.com/logos/d32f5c39b694f3e64d29fc2c9b988cdd.png" alt="huggingface-tools" width="40" height="40"/> 
+              </a>
+              <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
+                <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> 
+              </a>
+              <a href="https://opencv.org/" target="_blank" rel="noreferrer"> 
+                <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> 
+              </a>
+            </p>
+          </td>
+        </tr>
+        <tr>
+          <td>Data Visualisation / Monitoring</td>
+          <td>
+            <p align="left">
+              <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
+                <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
+              </a>
+              <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> 
+                <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> 
+              </a>
+              <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> 
+                <img src="https://camo.githubusercontent.com/50181d33f193cdd1730f6413365521f06b2c4b76048759e89cf7847629fb3541/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f6d6174706c6f746c69622d69636f6e2e737667" alt="matplotlib" width="40" height="40"/> 
+              </a>
+              <a href="https://grafana.com" target="_blank" rel="noreferrer"> 
+                <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> 
+              </a>
+              <a href="https://wandb.ai/site" target="_blank" rel="noreferrer"> 
+                <img src="https://github.com/wandb/assets/blob/main/wandb-dots-logo.svg" alt="wandb" width="40" height="40"/> 
+              </a>
+              <a href="https://www.tensorflow.org/tensorboard" target="_blank" rel="noreferrer"> 
+                <img src="https://www.tensorflow.org/site-assets/images/project-logos/tensorboard-logo-social.png" alt="tensorboard" width="40" height="40"/> 
+              </a>
+            </p>
+          </td>
+        </tr>
+        <tr>
+          <td>Cloud & CI</td>
+          <td>
+            <p align="left"> 
+              <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
+              </a>
+              <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer"> 
+                <img src="https://about.gitlab.com/images/press/logo/svg/gitlab-icon-rgb.svg" alt="gitlab-ci" width="40" height="40"/> 
+              </a>
+              <a href="https://github.com/features/actions" target="_blank" rel="noreferrer"> 
+                <img src="https://camo.githubusercontent.com/5e86afd16a93f1249f4b8d31783e110da71fd7ded147f2fc957320b39f842f34/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f6769746875622d616374696f6e732e737667" alt="github-actions" width="40" height="40"/> 
+              </a>
+              <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
+              </a>
+              <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> 
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> 
+              </a>
+            </p>
+          </td>
+        </tr>
+        <tr>
+          <td>Databases</td>
+          <td>
+            <p align="left">
+              <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
+              </a>
+              <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
+              </a>
+              <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+              </a>
+              <a href="https://redis.io" target="_blank" rel="noreferrer"> 
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> 
+              </a>
+              <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> 
+                <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
+              </a>
+            </p>
+          </td>
+        </tr>
+        <tr>
+          <td>Frameworks/Packages</td>
+          <td>
+            <p align="left">
+              <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> 
+                <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/fastapi.svg" alt="fastapi" width="40" height="40"/> 
+              </a>
+              <a href="https://streamlit.io/" target="_blank" rel="noreferrer"> 
+                <img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" alt="streamlit" width="40" height="40"/> 
+              </a>
+              <a href="https://gradio.app/" target="_blank" rel="noreferrer"> 
+                <img src="https://www.freecodecamp.org/news/content/images/2022/01/gradio-image-2.png" alt="gradio" width="40" height="40"/> 
+              </a>
+              <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> 
+                <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> 
+              </a>
+              <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> 
+                <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/>
+              </a>
+              <a href="https://docs.celeryproject.org/en/stable/index.html#" target="_blank" rel="noreferrer"> 
+                <img src="https://docs.celeryproject.org/en/stable/_static/celery_512.png" alt="celery" width="40" height="40"/>
+              </a> 
+            </p>
+          </td>
+        </tr>
+    </tbody>
+</table>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+    <a href="https://discord.gg/lolomgrofl" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="lolomgrofl" height="30" width="40" />
+    </a>
+</p>
+
+<p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lolomgrofl&show_icons=true&locale=en&theme=calm" alt="lolomgrofl" /></p>

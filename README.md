@@ -1,4 +1,5 @@
-# Hi, I'm Luka 🤙 
+<h1 align="center">Hi, I'm Luka 🤙 </h1>
+<h3 align="center">MLOps Engineer @QCerris </h3>
 
 ## About Me
 

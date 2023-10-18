@@ -11,7 +11,7 @@ I'm not just passionate about sports and gaming; I'm also a huge fan of open-sou
 
 ## Let's Connect
 
-If you're as passionate about open-source projects, sports, gaming, or MotoGP, I'd love to connect with you! Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/vuksanovicluka/).
+If you're as passionate about ML, open-source projects, sports, gaming, or MotoGP, I'd love to connect with you! Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/vuksanovicluka/).
 
 Cya at CSGO Faceit loby or MotoGP race! 👋 
 

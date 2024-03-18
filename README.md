@@ -5,7 +5,7 @@
 
 I'm an ex-professional basketball player, gamer, billiard enthusiast, and huge MotoGP fan. 🏀🎮🎱🏍️ 
 
-## Open Source and Making People Happy 🙌 
+## Open Source Work 🙌 
 
 I'm not just passionate about sports and gaming; I'm also a huge fan of open-source projects! 🚀 I believe in the power of collaboration/teamwork and the ability of open-source software to make people happy and provide them with cool tools to work with. I use open-source projects on a daily basis and I would like to contribute to the community as much as I can. I'll start with the small steps, but hopefully, there will be a lot of them in the future 🙏 
 

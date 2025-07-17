@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Luka 🤙 </h1>
-<h3 align="center">MLOps Engineer @Acronis </h3>
+<h3 align="center">MLOps Engineer </h3>
 
 ## About Me
 
